@@ -1,8 +1,13 @@
 import React from 'react'
+import Storefront from '../components/Storefront'
+
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+        <Storefront />
+
+    </div>
   )
 }
 
